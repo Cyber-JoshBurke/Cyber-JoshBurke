@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cyber-JoshBurke.Cyber-JoshBurke" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Josh+Burke!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Josh+Burke!;+Check+Out+My+Projects+Below!;" />
 </h1>
 
 <h3 align="center">A passionate Cyber Security Analyst!</h3>
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
  
- 🔭 I’m hae my sights on acheiving my PJPT
+ 🔭 I’m have my sights on acheiving my PJPT Q1
  
  🌱 I’m atempting to grow in this field by getting into home labs
 
@@ -36,9 +36,9 @@ You can click the Preview link to take a look at your changes.
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools I am learning⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java" /><br>
 </div>

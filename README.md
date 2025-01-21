@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://Cyber-JoshBurke.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -39,6 +39,8 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚒️ Languages-Frameworks-Tools I am learning⚒️</h2>
 <br/>
 <div align="center">
+    <img src=https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white />
     <img src="https://skillicons.dev/icons?i=html,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src=https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white />
 </div>

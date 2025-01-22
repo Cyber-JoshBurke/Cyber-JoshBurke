@@ -44,3 +44,21 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=python" />
     <img src=https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white />
 </div>
+
+
+<h2 align="center"> Experienced with a range of EDR tools</h2>
+<div align="center">
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/CrowdStrike-ff7f00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+    <img src="https://img.shields.io/badge/SentinelOne-800080?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
+
+
+</div>
+
+<h2 align="center"> Certifications </h2>
+<div align="center">
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA_CySA%2B-000000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA_CSAP%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+

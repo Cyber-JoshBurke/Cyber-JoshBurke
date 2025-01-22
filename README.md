@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<h2 align="center"> Experienced with a range of EDR tools</h2>
+<h2 align="center"> 🕖 Experienced with a range of EDR tools 🕖</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/CrowdStrike-ff7f00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<h2 align="center"> Certifications </h2>
+<h2 align="center">Certifications </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-000000?&style=for-the-badge&logo=CompTIA&logoColor=white" />

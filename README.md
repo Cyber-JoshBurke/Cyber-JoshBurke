@@ -48,10 +48,9 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> Experienced with a range of EDR tools</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/CrowdStrike-ff7f00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/SentinelOne-800080?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
-
 
 </div>
 

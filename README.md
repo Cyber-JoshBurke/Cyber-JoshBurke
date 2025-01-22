@@ -57,8 +57,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> Certifications </h2>
 <div align="center">
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-000000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-000000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSAP-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
